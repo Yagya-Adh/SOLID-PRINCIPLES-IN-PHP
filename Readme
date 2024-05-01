@@ -1,0 +1,10 @@
+
+SOLID Principle:
+
+    S - SRP -Single Responsibility Principle
+    O - OCP - Open/Close Principle
+    L - LCP - Liskov Substitution Principle
+    I - ISP - Interface Segregation Principle
+    D - DIP - Dependency Inversion Principle
+
+    
